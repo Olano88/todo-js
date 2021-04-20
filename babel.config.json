@@ -1,0 +1,14 @@
+//{
+//    "presets": [
+//      [
+//        "@babel/preset-env",
+//        {
+//          "useBuiltIns": "entry"
+//        }
+//      ],
+//      "minify"
+//    ]
+//}
+{
+  "presets": ["@babel/preset-env","minify"]
+}
